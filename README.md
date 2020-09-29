@@ -3,7 +3,7 @@
 ## Install
 
 ```bash
-    source shell_progress_bar.sh
+source shell_progress_bar.sh
 ```
 
 ## Usage:
