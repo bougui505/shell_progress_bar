@@ -1,5 +1,11 @@
 # Simple progress bar in shell
 
+## Install
+
+```bash
+    source shell_progress_bar.sh
+```
+
 ## Usage:
 
 ```bash
